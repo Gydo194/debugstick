@@ -1,0 +1,9 @@
+name: DebugStick
+version: 1.0
+main: com.gydo194.debugstickmaven.Main
+api-version: 1.13
+softdepend: [Vault]
+commands:
+    debugstick:
+        description: Get yourself a juicy debug stick and go mess with people (but only if you are legal age to do so)
+        usage: /debugstick
